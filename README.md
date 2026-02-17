@@ -78,7 +78,7 @@ Sowjanya N U
 GitHub: https://github.com/sowjanyanu-34
 
 ##⭐ If you like this project
-Give it a star ⭐ — it really helps!
+Give it a star ⭐ — it really helps!!
 
 
 ---
