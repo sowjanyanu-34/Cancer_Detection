@@ -44,7 +44,7 @@ The system uses a **Convolutional Neural Network (CNN)** to analyze lung images 
 
 ## ▶️ How to Run the Project Locally
 1️⃣ Clone the repository
-git clone https://github.com/ashwinipallavi/Lung-Cancer-Detection-Streamlit.git
+git clone https://github.com/sowjnayanu-34/Cancer_Detection.git
 
 -- cd Lung-Cancer-Detection-Streamlit
 
