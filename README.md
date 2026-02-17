@@ -74,8 +74,8 @@ python -m pip install numpy==1.26.4 scipy==1.11.4
 This project is intended for educational and research purposes only and should not be used as a substitute for professional medical diagnosis.
 ##👩‍💻 Author
 
-Pallavi S E
-GitHub: https://github.com/ashwinipallavi
+Sowjanya N U
+GitHub: https://github.com/sowjanyanu-34
 
 ##⭐ If you like this project
 Give it a star ⭐ — it really helps!
